@@ -29,6 +29,9 @@ Atualmente, estou aprendendo **Python, HTML, CSS e JavaScript** e procuro projet
 📩 **Como me encontrar:**  
 ✉️ Email: [a.flaviaa02@gmail.com](mailto:a.flaviaa02@gmail.com) 
 🔗 LinkedIn: [Ana Flávia Maciel](https://www.linkedin.com/in/ana-fl%C3%A1via-maciel0/)  
+
+ env:
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 <!---
 Anahmac/Anahmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

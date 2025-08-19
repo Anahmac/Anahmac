@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mim  
 Sou revisora de textos e futura **Redatora Técnica (Tech Writer)**, em transição da área de **Letras e Comunicação** para **Tecnologia**.  
-Tenho experiência com **revisão editorial, documentação técnica, padronização de materiais** e atualmente estudo **Análise e Desenvolvimento de Sistemas**.  
+Tenho experiência com **revisão editorial, documentação técnica, padronização de materiais**.  
 Meu objetivo é unir clareza textual à tecnologia, produzindo **documentação acessível, estruturada e eficaz**.  
 
 ---

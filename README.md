@@ -8,9 +8,7 @@
 
 - 📝 Interesso-me por UX Writing, documentação de APIs, guias técnicos e clareza na comunicação.
 
-- 🌍 Idiomas: Português (nativo) | Inglês (básico, em progresso).
-
-# ✍️ Ana Flávia Maciel  
+- 🌍 Idiomas: Português (nativo) | Inglês (básico, em progresso). 
 
 ## 🚀 Sobre mim  
 Sou revisora de textos e futura **Redatora Técnica (Tech Writer)**, em transição da área de **Letras e Comunicação** para **Tecnologia**.  

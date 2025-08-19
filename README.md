@@ -31,10 +31,8 @@ HTML · CSS · Python (básico)
 ---
 
 ## 📂 Projetos de Redação Técnica  
-
-- 📘 **Guia de Leitura – Orgulho e Preconceito** (Clube do Livro *Entre Amigas*)  
-- 🖋 **Documentação de sistema interno** – Alpes Mídia (colaboração com devs e equipe editorial)  
-- 📑 **Manuais e conteúdos instrucionais** – Positivo Tecnologia  
+ 
+- 📑 **Relatório técnico: Bluetooth Low Energy** – Portifólio  
 
 ---
 
